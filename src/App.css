@@ -1,0 +1,26 @@
+/* this is costom css use in class  */
+
+.nexc{
+    background: linear-gradient(73.19deg,
+        rgba(255, 82, 181, 1) 0%,
+        rgba(159, 83, 255, 1) 100%);
+-webkit-background-clip:text;
+-webkit-text-fill-color: transparent
+}
+.nexbg{
+    background: linear-gradient(73.19deg,
+        rgba(255, 82, 181, 1) 0%,
+        rgba(159, 83, 255, 1) 100%);
+}
+
+.hovertext{
+   color: #220953;
+}
+li:hover{
+    color: "";
+    background: linear-gradient(73.19deg,
+    rgba(255, 82, 181, 1) 0%,
+    rgba(159, 83, 255, 1) 100%);
+-webkit-background-clip:text;
+-webkit-text-fill-color: transparent
+}
